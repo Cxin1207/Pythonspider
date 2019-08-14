@@ -1,3 +1,0 @@
-asdfa
-print('123')
-
